@@ -59,5 +59,5 @@ cv2<br/>
 opencv<br/>
 pickle<br/>
 
-## MOdel Output
+## Model Output
 ![Screenshot (84)](https://user-images.githubusercontent.com/41201124/74375930-3f2ef100-4e07-11ea-9b6d-9a0728a63b47.png)
